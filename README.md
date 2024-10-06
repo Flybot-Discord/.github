@@ -23,9 +23,9 @@ Préparez-vous à une aventure inoubliable qui fera vibrer votre esprit, votre c
 
 L'équipe de Flybot 😁
 
-![Ajouter le bot](https://canary.discord.com/oauth2/authorize?client_id=891607055595601930)
-![Lien du discord](https://discord.com/invite/wmJxbsXyGY)
-![Site Web](https://halloween.flybot.tk/)
+[Ajouter le bot](https://canary.discord.com/oauth2/authorize?client_id=891607055595601930)
+[Lien du discord](https://discord.com/invite/wmJxbsXyGY)
+[Site Web](https://halloween.flybot.tk/)
 
 ![image](https://github.com/user-attachments/assets/c8b13ab6-c067-4007-9919-454197898937)
 ![image](https://github.com/user-attachments/assets/0a813491-830a-42ee-9d4b-81477e903407)
